@@ -6,3 +6,5 @@ Derek Cannon's UX Journal
 
 I am a junior attending CSU Chico, majoring in CSCI. My interests are coding, math, music, and languages.
 I currently play banjo, and I am currently working on developing an audio synthesizing app and midi controller.
+
+[Journal 1](j01.md)
